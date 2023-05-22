@@ -28,10 +28,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username:  nannthet
 
 # Build settings
-theme: minima
+#theme: minima
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
 plugins:
   - jekyll-feed
-
+category_dir: category/
+tag_dir: tag/
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
