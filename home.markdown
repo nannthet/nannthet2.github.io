@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: ##
 permalink: /home
 ---
 
