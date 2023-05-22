@@ -26,8 +26,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #linkedin_username: jekyllrb
 github_username:  nannthet
-
-# Build settings
+highlighter: rouge
+svg:
+  optimize: true
+  # Build settings
 #theme: minima
 highlighter-theme: monokai //you can change your syntax color scheme.
 date_format: "%Y-%M-%D" //and date format.
