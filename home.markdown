@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome!
-#permalink:
+permalink: /home/
 ---
 
 Testing
