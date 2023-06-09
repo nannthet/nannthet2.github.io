@@ -3,6 +3,7 @@ layout: page
 title: Education
 permalink: /education/
 ---
+Education
 
 Sept. 2017 - Aug. 2021: Ph.D Program at the Graduate School of Natural Science and Engineering
 Istanbul Medipol University, Istanbul, Turkey.
