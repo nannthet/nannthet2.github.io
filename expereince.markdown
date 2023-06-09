@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Publications
+title: Work Experience
 permalink: /experiences/
 ---
-Work Experiences
 
 Oct. 2021 - Mar. 2023: POST-DOCTORAL RESEARCHER at Distributed Wireless Systems Laboratory,
 Advanced Wireless Communication Research Center (AWCC), The University of Electro-Communications, Tokyo, Japan.
