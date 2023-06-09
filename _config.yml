@@ -21,7 +21,7 @@
 title: My Research Blog
 email: nann@nict.go.jp
 description: >- # this means to ignore newlines until "baseurl:"
- hello
+ nann win moe thet
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://nannthet.github.io"
 # the base hostname & protocol for your site, e.g. http://example.com
