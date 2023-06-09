@@ -13,6 +13,7 @@ Publicated on 12 Oct, 2020.
 3. N.W.M. Thet, A. Kachroo and M.K. Ozdemir, [”Extended reduced-rank joint estimation of
 direction of arrival with mutual coupling for coherent signals,”](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3620) Transactions on Emerging
 Telecommunications Technologies; Wiley; 2019; p.e3620.
+
 Conferences
 1. N.W.M. Thet and K. Ishibashi, [”Resource Allocation in Downlink NOMA-OFDM System with
 Coexistence of URLLC and eMBB Users,”](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202255202452409) presenting at the 45th Symposium on Information
@@ -30,6 +31,8 @@ Turkey.
 5. N.W.M. Thet, A. Kachroo and M.K. Ozdemir, [”Reduced-rank joint estimation of DOA with
 mutual coupling,”](https://ieeexplore.ieee.org/document/8404592) in Proc. the 26th Signal Processing and Communications Applications
 Conference (SIU); 2018; Izmir, Turkey.
+
+
 Others
 1. N.W.M. Thet and M.K. Ozdemir, ”Outage Probability Analysis of Reconfigurable Intelligent
 Surface-Enabled Coordinated Multi-points NOMA Networks.” 2023 [In Revision].
