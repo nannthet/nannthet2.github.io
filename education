@@ -1,0 +1,35 @@
+---
+layout: page
+title: Education
+permalink: /education/
+---
+
+Sept. 2017 - Aug. 2021 Ph.D Program at the Graduate School of Natural Science and Engineering
+Istanbul Medipol University, Istanbul, Turkey.
+| Summary: The focus of my Ph.D. thesis is exploring and developing array processing
+techniques and systems to increase spectral efficiency in 5G and beyond technology,
+where I applied beamforming, NOMA, and IRS. In particular, this thesis discuses DoA
+estimation for massive MIMO systems, low complexity resources allocation for
+partial-NOMA systems, and performance analysis of IRS-assisted NOMA.
+| Supervisor: Assoc. Prof. Dr. Kemal. M Özdemir
+| Courses: Estimation Theory, Wireless Communications, Fuzzy Logic and Modeling,
+Advanced Digital Communications, Neural Networks, and Deep Learning.
+CGPA: 3.87/4
+Feb. 2015 - Aug. 2017 Master’s Program at the Graduate School of Natural Science and Engineering
+Istanbul Sehir University, Istanbul, Turkey.
+| Summary: The master thesis focuses on f-OFDM system with Peak to Average Power
+Ratio reduction and power amplifier linearlization. Different filter designs suitable for
+better time and frequency localization were analyzed and effect of nonlinear PA on
+f-OFDM signals were discussed along with PA linearization technique.
+| Supervisor: Assist. Prof. Dr. Kemal. M Özdemir
+CGPA: 3.88/4
+Sept. 2009 - Feb. 2014 Bachelor Program at Faculty of Engineering,
+International Islamic University Malaysia (IIUM), Kuala Lumpur, Malaysia
+| Summary: This thesis analyzes the performance of dynamic source routing (DSR)
+protocol in Vehicular Ad-Hoc Network, where simulation of DSR with Manhattan City
+Mobility Model was performed by using Network Simulator 2 (NS2) software, and
+it was compared DSR with AODV protocol.
+| Supervisor: Dr. Farhat Anwar
+CGPA: 3.773/4
+Sept. 2007 - Aug. 2009 Foundation Studies (Department of Engineering)
+International Islamic University Malaysia (IIUM), Kuala Lumpur, Malaysia
