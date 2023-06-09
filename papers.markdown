@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Publication
-permalink: /publication/
+title: Publications
+permalink: /publications/
 ---
+Publications
 
-Journals
+Journal Papers
 1. N.W.M. Thet and M.K. Ozdemir, [”Partial-Beam Non-Orthogonal Multiple Access (PB-NOMA)
 with Fuzzy Clustering,”](https://ieeexplore.ieee.org/document/9361632) IEEE Wireless Communications Letters. 2021 Feb 24;10(6):1202-6.
 2. N.W.M. Thet, S. Khan, E. Arvas and M.K. Ozdemir, ”Impact of Mutual Coupling on Power-
@@ -14,7 +15,7 @@ Publicated on 12 Oct, 2020.
 direction of arrival with mutual coupling for coherent signals,”](https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.3620) Transactions on Emerging
 Telecommunications Technologies; Wiley; 2019; p.e3620.
 
-Conferences
+Conference Papers
 1. N.W.M. Thet and K. Ishibashi, [”Resource Allocation in Downlink NOMA-OFDM System with
 Coexistence of URLLC and eMBB Users,”](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202202255202452409) presenting at the 45th Symposium on Information
 Theory and Its Applications (SITA); 2022; Noboribetsu, Japan.
