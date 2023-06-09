@@ -3,9 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Welcome!
 ---
-
-Welcome!
 
 My name is Nann Win Moe Thet. I am currently a researcher at [Sustainable ICT Systems Laboratory](https://www.nict.go.jp/en/resil/sustainable.html), Resilent ICT Research Center, [National Institute Of Information And Communications Technology (NICT)](https://www.nict.go.jp/en/index.html), Japan. My current research interests include radio resource allocation in wireless networks, optimization,interference cancellation, and multiple access technologies.
 
