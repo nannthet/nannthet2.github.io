@@ -3,7 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Publications
 
 Journal Papers
 1. N.W.M. Thet and M.K. Ozdemir, [”Partial-Beam Non-Orthogonal Multiple Access (PB-NOMA)
